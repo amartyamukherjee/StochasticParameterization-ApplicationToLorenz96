@@ -3,4 +3,5 @@
 Requirements:
 
 Must have pysindy installed
+
 ```pip install pysindy```
